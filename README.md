@@ -23,4 +23,8 @@ A containerisation platform, however, runs the same apps within an environment i
 
 ### What is a container?
 
-A container is an environment that
+A container is an environment that contains LIBS+BINS that are deemed necessary by the developers for running an application.
+
+### What is an image?
+
+An image is a set of LIBS+BINS that are put into a container for running an app.
