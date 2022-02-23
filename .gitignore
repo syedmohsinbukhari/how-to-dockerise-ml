@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# But not these files or directories...
+!.gitignore
+!README.md
+!docs/*.png
