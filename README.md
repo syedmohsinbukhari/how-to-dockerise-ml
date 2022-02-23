@@ -27,4 +27,8 @@ A container is an environment that contains LIBS+BINS that are deemed necessary 
 
 ### What is an image?
 
-An image is a set of LIBS+BINS that are put into a container for running an app.
+An image is a snapshot of an environment with all the LIBS+BINS that are deemed necessary by the developers for running an app.
+
+### How do containers and images relate?
+
+An image can be used as a starting point for a container. One can execute commands in a container which uses an image as a starting point.
