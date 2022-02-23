@@ -6,6 +6,9 @@
 !README.md
 !docs
 !docs/*.png
+!requirements.txt
+!Dockerfile
 
 # python
+!mlpipeline
 !*.py
