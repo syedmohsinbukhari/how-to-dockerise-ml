@@ -19,4 +19,3 @@ def train(X, y, model):
 def predict(input, model):
     output = model.predict(input)
     return output
-
