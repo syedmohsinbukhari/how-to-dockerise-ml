@@ -5,3 +5,5 @@ This repository contains code and reading material that shows how to wrap up Mac
 ## What is Docker?
 
 Docker is a containerisation platform. But what does this mean?
+
+![WhatIsDocker](docs/WhatIsDocker.jpeg?raw=true "What Is Docker")
